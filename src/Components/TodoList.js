@@ -30,6 +30,7 @@ export default function TodoList() {
   useEffect(() => {
     const storageTodos = JSON.parse(localStorage.getItem("todos"));
     settodos(storageTodos ?? []);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   function handleAddClick() {
