@@ -1,0 +1,38 @@
+.todoParent {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  gap: 5px;
+  color: #fff;
+}
+.box {
+  background-color: #1976d2;
+  flex: 1;
+  padding: 10px;
+  border-radius: 6px;
+  transition: 0.3s;
+  overflow-x: auto;
+}
+
+.box:hover {
+  background-color: #1976d2e1;
+  box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.4);
+}
+.icons {
+  background-color: #1976d2;
+  padding: 10px;
+  width: 150px;
+  text-align: center;
+  border-radius: 6px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.iconBtn {
+  transition: 0.3s !important;
+}
+.iconBtn:hover {
+  background-color: #c5c5c5 !important;
+  box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.4);
+}

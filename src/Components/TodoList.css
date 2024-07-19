@@ -1,0 +1,11 @@
+.container {
+  background-color: #fff;
+  border-radius: 6px;
+  padding: 20px;
+  margin-top: 40px;
+  max-height: 90vh;
+  overflow: auto;
+}
+.header {
+  text-align: center;
+}
