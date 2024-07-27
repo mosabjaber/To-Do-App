@@ -1,5 +1,6 @@
 # To-Do-App
 CRUD App Useing React
+This is a todo list application created using Vite and React.js. You can access the application [here.](https://deft-cajeta-2e76be.netlify.app/)
 
 
 # Getting Started with Create React App
