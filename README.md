@@ -14,11 +14,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # npm install @mui/material @emotion/react @emotion/styled
 ```
 
-This package utilizes pickers and icons of the MUI ecosystem. If you make use of it add them to your app.
+
 
 ```console
 # npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
-```sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+```
 
 ## Available Scripts
 
